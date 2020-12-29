@@ -5,6 +5,8 @@ The project is under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 
 # Purpose
 
+-<img src="Wash_Hand.png" width=500></img>
+
 Enclosure for the Wash Hand PCB board.
 See  <a href="https://github.com/konradwilk/wash-hand-pcb">https://github.com/konradwilk/wash-hand-pcb</a>
 
