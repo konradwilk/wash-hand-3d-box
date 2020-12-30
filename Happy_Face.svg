@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Happy_Face.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.59405258"
+     inkscape:cx="374.17382"
+     inkscape:cy="128.50387"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="835"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path841"
+       style="fill:#2b0000;stroke-width:0.00803534;stroke-linecap:round;paint-order:stroke fill markers"
+       d="M 38.64301,4.1720582 A 16,16 0 0 0 22.688429,20.172116 16,16 0 0 0 38.688486,36.172171 16,16 0 0 0 54.688542,20.172116 16,16 0 0 0 38.688486,4.1720582 a 16,16 0 0 0 -0.04548,0 z m 0.04548,0.999939 A 15,15 0 0 1 53.688086,20.172116 15,15 0 0 1 38.688486,35.172234 15,15 0 0 1 23.688368,20.172116 15,15 0 0 1 38.688486,5.1719972 Z" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.00799999;stroke-linecap:round;paint-order:stroke fill markers"
+       id="path843"
+       cx="31.189976"
+       cy="14.607566"
+       rx="3.5016484"
+       ry="2.4354413" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.00799999;stroke-linecap:round;paint-order:stroke fill markers"
+       id="path843-3"
+       cx="46.189976"
+       cy="14.607566"
+       rx="3.5016484"
+       ry="2.4354413" />
+    <path
+       id="path862"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0176358;stroke-linecap:round;paint-order:stroke fill markers"
+       d="m 49.257729,23.452825 a 10.527341,2.0545602 0 0 1 0.044,0.186801 10.527341,2.0545602 0 0 1 -10.527366,2.054773 10.527341,2.0545602 0 0 1 -10.32792,-1.656979 10.441115,4.3933439 0 0 0 10.43377,4.227525 10.441115,4.3933439 0 0 0 10.441026,-4.39315 10.441115,4.3933439 0 0 0 -0.0479,-0.41897 z" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.008;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="path890"
+       sodipodi:sides="3"
+       sodipodi:cx="98.812859"
+       sodipodi:cy="33.267223"
+       sodipodi:r1="1.9761677"
+       sodipodi:r2="0.98808384"
+       sodipodi:arg1="1.3982661"
+       sodipodi:arg2="2.4454637"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 99.152118,35.214052 -2.194892,-2.626435 3.372004,-0.587615 z"
+       inkscape:transform-center-x="-1.5766989"
+       inkscape:transform-center-y="-3.3015586"
+       transform="matrix(0.889678,0,0,0.933402,-48.5724,-11.6967)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.8649px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.271624"
+       x="9.0382471"
+       y="34.837265"
+       id="text894"
+       transform="scale(0.939819,1.06403)"><tspan
+         sodipodi:role="line"
+         id="tspan892"
+         x="9.0382471"
+         y="34.837265"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.271624">Hi !</tspan></text>
+  </g>
+</svg>
