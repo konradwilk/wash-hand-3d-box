@@ -17,4 +17,4 @@ See  <a href="https://github.com/konradwilk/wash-hand-pcb">https://github.com/ko
    Wash_Hand_dim.stl</a> which is a representation of the PCB board along with the various outlines.
    This can be used to construct a box around it.
  - *Happy_Face.(stl,scad,svg)* - Inkscript generated Happy Face because 2021 is coming!
- - *Wash_Hand.(stl,gobject,png)* - The enclosure
+ - *Body|Lid.(stl,gobject,png)* - The enclosure parts
